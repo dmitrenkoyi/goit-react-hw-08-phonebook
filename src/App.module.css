@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(
+      to right,
+      rgba(47, 48, 58, 0.4),
+      rgba(47, 48, 58, 0.4)
+    ),
+    url(https://c1.wallpaperflare.com/preview/221/227/669/blank-business-composition-computer.jpg)
+      no-repeat center;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
