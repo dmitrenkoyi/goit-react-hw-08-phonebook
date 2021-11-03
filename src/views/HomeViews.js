@@ -2,7 +2,7 @@ const styles = {
   headerHomePage: {
     fontSize: "40px",
     marginTop: "100px",
-    color: " white",
+    color: "white",
   },
 };
 
